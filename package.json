@@ -6,6 +6,7 @@
     "name": "Ben Sheldon",
     "email": "bensheldon@gmail.com"
   },
+  "main": "./index",
   "repository": {
     "type": "git",
     "url": "git://github.com/bensheldon/registrar.git"
@@ -14,8 +15,15 @@
     "node": "0.8.x",
     "npm":  "1.1.x"
   },
-  "main": "./index",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
   "dependencies": {
-    "lodash": "3.x"
+    "lodash": "0.9.x"
+  },
+  "devDependencies": {
+    "mocha":  "~1.4.1",
+    "chai": "~1.2.0",
+    "sinon": "~1.4.2"
   }
 }

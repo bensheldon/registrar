@@ -1,0 +1,21 @@
+{
+  "name": "registrar",
+  "version": "0.0.1",
+  "description": "Extensible, storage-agnostic object models, backbone-style",
+  "author": {
+    "name": "Ben Sheldon",
+    "email": "bensheldon@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bensheldon/registrar.git"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm":  "1.1.x"
+  },
+  "main": "./index",
+  "dependencies": {
+    "lodash": "3.x"
+  }
+}

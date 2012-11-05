@@ -1,5 +1,7 @@
 registrar
 =========
+[![Build Status](https://secure.travis-ci.org/bensheldon/registrar.png)](http://travis-ci.org/bensheldon/registrar)
+
 Extensible, storage-agnostic object models, [backbone-style](http://backbonejs.org/#Model).
 
 

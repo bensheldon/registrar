@@ -1,6 +1,6 @@
 {
   "name": "registrar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extensible, storage-agnostic object models, backbone-style",
   "author": {
     "name": "Ben Sheldon",
